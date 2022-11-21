@@ -28,7 +28,7 @@ This project is build on React and Bootstrap. It also includes some of the npm p
 REACT, HTML, CSS, BOOTSTRAP
 
 ## Demo | Netlify
-[LIVE LINK]()
+[LIVE LINK](https://tictactoereactapp.netlify.app/)
 
 
 ## Screenshots
