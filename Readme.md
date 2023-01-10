@@ -1,7 +1,7 @@
 # Hi, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 👋
 
 
-## 🚀 I'm a front-end developer...
+## 🚀 I'm a full-stack developer...
 
 ![](logo192.png)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -12,7 +12,12 @@ This project is build on React and Bootstrap. It also includes some of the npm p
 
 ## Average time to complete
 #### 3 hrs
+
+## Demo | Netlify
+[LIVE LINK](https://tictactoereactapp.netlify.app/)
+
 ## Lessons Learned
+
 
 ![](https://img.shields.io/badge/React-toastify-purple)
 ![](https://img.shields.io/badge/React-icon-blue)
@@ -27,14 +32,10 @@ This project is build on React and Bootstrap. It also includes some of the npm p
 ## 🛠 Skills
 REACT, HTML, CSS, BOOTSTRAP
 
-## Demo | Netlify
-[LIVE LINK](https://tictactoereactapp.netlify.app/)
-
 
 ## Screenshots
-![]()
-
-
+![Screenshot_20230110_105413](https://user-images.githubusercontent.com/92782806/211468674-8001653d-1218-42a9-b954-767b7a51a401.png)
+![Screenshot_20230110_105426](https://user-images.githubusercontent.com/92782806/211468686-07663f4b-89f9-4bdc-b448-d480b064b6d9.png)
 
 ## Feedback
 
